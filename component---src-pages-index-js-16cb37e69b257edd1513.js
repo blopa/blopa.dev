@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(t,n,e){"use strict";e.r(n);var c=e("q1tI"),o=e.n(c);n.default=function(){return Object(c.useEffect)((function(){window.location.replace("https://github.com/blopa/jamstack-url-shortner")}),[]),o.a.createElement("p",null)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-16cb37e69b257edd1513.js.map
