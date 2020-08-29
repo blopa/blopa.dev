@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(n,t,e){"use strict";e.r(t);var c=e("q1tI"),o=e.n(c);t.default=function(){return Object(c.useEffect)((function(){window.location.replace("https://github.com/blopa/blopa.dev")}),[]),o.a.createElement("p",null)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3e252935259c12bda5ae.js.map
