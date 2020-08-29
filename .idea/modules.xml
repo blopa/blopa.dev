@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< Updated upstream
       <module fileurl="file://$PROJECT_DIR$/.idea/jamstack-shortner.iml" filepath="$PROJECT_DIR$/.idea/jamstack-shortner.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/blopa.dev.iml" filepath="$PROJECT_DIR$/.idea/blopa.dev.iml" />
+>>>>>>> Stashed changes
     </modules>
   </component>
 </project>

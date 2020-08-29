@@ -1,0 +1,19 @@
+Index: static/CNAME
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- static/CNAME	(date 1590328993087)
++++ static/CNAME	(date 1590328993087)
+@@ -0,0 +1,1 @@
++pablo.gg
+Index: static/robots.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- static/robots.txt	(date 1590329804481)
++++ static/robots.txt	(date 1590329804481)
+@@ -0,0 +1,2 @@
++User-agent: *
++Disallow:
