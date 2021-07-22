@@ -19,7 +19,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
-    "xlsx": "^0.16.6"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "prettier": "2.1.1"
